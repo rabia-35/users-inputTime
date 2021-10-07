@@ -1,2 +1,2 @@
-# js--dev1
+# js-odev1
 javascript ilk ödev
